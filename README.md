@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🍋 working on Lemon (https://www.lemon.me/en)<br>📚 currently learning about game development and creative coding<br>🧗‍♀️ like to go mountain climbing in my free time<br><br>You can read my posts on https://arielgerstein.com/blog</p>
+<p align="left">🍋 working on [Lemon](https://www.lemon.me/en)<br>📚 currently learning about game development and creative coding<br>🧗‍♀️ like to go mountain climbing in my free time<br><br>You can read my posts on my [blog](https://arielgerstein.com/blog)</p>
 
 ###
 
